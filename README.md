@@ -227,8 +227,8 @@ npm -v
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/NidhiThakur-24/game-theory-project.git
-   cd game-theory-project
+   git clone https://github.com/NidhiThakur-24/Game-Theory-Project.git
+   cd Game-Theory-Project
    ```
 
 2. **Install dependencies**:
